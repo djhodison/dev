@@ -33,7 +33,7 @@ Para utilizar a extensão WekaPAR, você pode [assistir](https://github.com/) ou
 # **Qual a compatibilidade?**
 A extensão WekaPAR funciona a partir da versão 3.7.8 da ferramenta WEKA. Entretanto, aconselhamos que os usuários estejam com a ferramenta WEKA em sua versão 3.8.0 ou superior.
 
-Até a versão 3.7.13 existia um bug que, em alguns casos, poderia gerar valores ligeiramente diferentes para as medidas de interesse, quando comparados com a saída original. Este problema foi reportado na lista de usuários da WEKA e foi corrigido, mas só apareceu na versão 3.8.0. 
+Até a versão 3.7.13 existia um bug que, em alguns casos, poderia gerar valores ligeiramente diferentes para as medidas de interesse, quando comparados com a saída original. Este problema foi reportado na lista de usuários da WEKA e foi corrigido, mas essa correção foi disponibilizada apenas na versão 3.8.0. 
 
 Portanto, esta é a versão na qual o plugin pode ser utilizado sem o bug.
 
