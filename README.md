@@ -12,7 +12,7 @@ Nota: Para utilizar a extensão WekaPAR, é necessário ter instalada a ferramen
 Caso ainda não possua a ferramenta WEKA, clique [aqui](http://www.cs.waikato.ac.nz/ml/weka/downloading.html) para realizar o download.
 
 # **Como instalar?**
-Para instalar a extensão WekaPAR na ferramenta WEKA, [assistir](https://github.com/) ou ler abaixo nossas instruções.
+Para instalar a extensão WekaPAR na ferramenta WEKA, você pode [assistir](https://github.com/) ou ler as instruções abaixo.
 
 ## **Manual de Instalação:**
 > * Abra a ferramenta WEKA, clique em 'Tools' e depois em 'Package manager'.
