@@ -24,7 +24,7 @@ Para instalar a extensão WekaPAR na ferramenta WEKA, você pode [assistir](http
 > * Parabéns! Você instalou a extensão WekaPAR com sucesso.
 
 # **Como utilizar?**
-Para utilizar a extensão WekaPAR, você pode [ler](https://github.com/) ou [assistir](https://github.com/) nossas instruções.
+Para utilizar a extensão WekaPAR, você pode [assistir](https://github.com/) ou ler as instruções abaixo.
 
 ## **Manual de Utilização:**
 > *
