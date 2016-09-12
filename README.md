@@ -35,6 +35,7 @@ Para utilizar a extensão WekaPAR, você pode [assistir](https://github.com/) ou
 > * Selecone 'Plugins' e depois 'View in postprocess tab'.
 
 > * ### Na aba **'Postprocess associations'** você irá encontrar:
+> **Command bar**:
 > * **Filter for rules**:
 > * **Minimun values for metrics**:
 > * **Rules**:
