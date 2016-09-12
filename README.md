@@ -35,9 +35,7 @@ Para utilizar a extensão WekaPAR, você pode [assistir](https://github.com/) ou
 > * Selecone 'Plugins' e depois 'View in postprocess tab'.
 
 > * ### Na aba **'Postprocess associations'** você irá encontrar:
-> * **Command bar:** Contendo opções para salvar as regras apresentadas em arquivo, abrir novamente o conjunto de regras e exportá-lo no formato CSV. 
->
-A extensão WekaPAR permite que as regras extraídas sejam salvas em arquivo e possam ser carregadas novamente sem a necessidade de executar novamente o algoritmo de mineração de regras de associação. No entanto, a contribuição desta funcionalidade limita-se a etapa de pós-processamento. Uma vez que exista a necessidade de refazer atividades relacionadas a outras etapas, como a seleção de dados, o algoritmo deverá ser executado novamente para gerar novas regras.
+> * **Command bar:** Contendo opções para salvar as regras apresentadas em arquivo, abrir novamente o conjunto de regras e exportá-lo no formato CSV.  A extensão WekaPAR permite que as regras extraídas sejam salvas em arquivo e possam ser carregadas novamente sem a necessidade de executar novamente o algoritmo de mineração de regras de associação. No entanto, a contribuição desta funcionalidade limita-se a etapa de pós-processamento. Uma vez que exista a necessidade de refazer atividades relacionadas a outras etapas, como a seleção de dados, o algoritmo deverá ser executado novamente para gerar novas regras.
 
 > * **Filter for rules:**
 > * **Minimun values for metrics:**
