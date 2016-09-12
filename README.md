@@ -29,13 +29,12 @@ Para instalar a extensão WekaPAR na ferramenta WEKA, você pode [assistir](http
 Para utilizar a extensão WekaPAR, você pode [assistir](https://github.com/) ou ler as instruções abaixo.
 
 ## **Manual de Utilização:**
-> * Obtenha regras de associação normalmente, através da aba 'Associate'. Para obter instruções mais detalhadas sobre procedimentos anteriores a este, recomendamos assistir o [vídeo](https://github.com/) contendo instruções detalhadas.
+> * Obtenha regras de associação normalmente, através da aba 'Associate'. Para obter instruções mais detalhadas sobre procedimentos anteriores a este, recomendamos assistir nosso [vídeo](https://github.com/) contendo instruções detalhadas.
 > * Marque a opção 'Store output for visualization' e clique em 'Start' para obter as regras de associação.
 > * Em 'Result list', abra o menu de contexto, clicando com o botão direito do mouse, sobre o item desejado.
 > * Selecone 'Plugins' e depois 'View in postprocess tab'.
-> * Você irá encontra na aba 'Postprocess associations':
 
-> ### **Aba 'Postprocess associations'**
+> * ### Você irá encontrar na aba **'Postprocess associations'**:
 > * **'Filter for rules'**:
 > * 'Minimun values for metrics':
 > * 'Rules':
