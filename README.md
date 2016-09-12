@@ -34,7 +34,7 @@ Para utilizar a extensão WekaPAR, você pode [assistir](https://github.com/) ou
 > * Em 'Result list', abra o menu de contexto, clicando com o botão direito do mouse, sobre o item desejado.
 > * Selecone 'Plugins' e depois 'View in postprocess tab'.
 
-### **Aba 'Postprocess associations'**
+> ### **Aba 'Postprocess associations'**
 > * 
 
 # **Qual a compatibilidade?**
