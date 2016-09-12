@@ -18,7 +18,7 @@ Para instalar a extensão WekaPAR na ferramenta WEKA, você pode [assistir](http
 
 ## **Manual de Instalação:**
 > * Abra a ferramenta WEKA, clique em 'Tools' e depois em 'Package manager'.
-!(https://s-media-cache-ak0.pinimg.com/236x/0c/cd/a2/0ccda27712dbfcd81e236a2df4068f9b.jpg)
+![Passo 1](https://s-media-cache-ak0.pinimg.com/236x/0c/cd/a2/0ccda27712dbfcd81e236a2df4068f9b.jpg)
 > * Clique em 'File/URL' no canto superior direito.
 > * Clique em 'Browse', localize e selecione a extensão WekaPAR. Em seguida, clique em 'OK'.
 > * Você deverá visualizar um aviso alertando a necessidade de reiniciar a ferramenta WEKA. 
