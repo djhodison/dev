@@ -35,11 +35,11 @@ Para utilizar a extensão WekaPAR, você pode [assistir](https://github.com/) ou
 > * Selecone 'Plugins' e depois 'View in postprocess tab'.
 
 > * ### Na aba **'Postprocess associations'** você irá encontrar:
-> * **Command bar**:
-> * **Filter for rules**:
-> * **Minimun values for metrics**:
-> * **Rules**:
-> * **Status**:
+> * **Command bar:**
+> * **Filter for rules:**
+> * **Minimun values for metrics:**
+> * **Rules:**
+> * **Status:**
 
 # **Qual a compatibilidade?**
 A extensão WekaPAR funciona a partir da versão 3.7.8 da ferramenta WEKA. Entretanto, aconselhamos que os usuários estejam com a ferramenta WEKA em sua versão 3.8.0 ou superior.
