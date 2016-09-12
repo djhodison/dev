@@ -54,9 +54,9 @@ Para problemas com a instalação da extensão WekaPAR, clique [aqui](https://gi
 
 Para problemas com o valores divergentes, clique [aqui](https://github.com/).
 
+Você também pode entrar com contato direto com a equipe WekaPAR por meio deste [link](https://github.com/).
+
 # **Como contribuir com a WekaPAR?**
 Para contribuir com a extensão WekaPAR, leia:
-* [Primeiro](https://github.com/)
-* [Segundo](https://github.com/)
-* [Terceiro](https://github.com/)
+
 
