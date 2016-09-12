@@ -8,7 +8,7 @@ O propósito da WekaPAR é prover ao usuário da ferramenta WEKA um ambiente ond
 # **Como obter?**
 Para obter a extensão WekaPAR, clique [aqui](https://github.com/).
 
-Nota: Para utilizar a extensão WekaPAR, é necessário ter instalada a ferramenta WEKA.
+> * Nota: Para utilizar a extensão WekaPAR, é necessário ter instalada a ferramenta WEKA.
 Caso ainda não possua a ferramenta WEKA, clique [aqui](http://www.cs.waikato.ac.nz/ml/weka/downloading.html) para realizar o download.
 
 # **Como instalar?**
