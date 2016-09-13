@@ -16,7 +16,7 @@ Para instalar a extensão WekaPAR na ferramenta WEKA, você pode [ler](https://g
 Para utilizar a extensão WekaPAR, você pode [ler](https://github.com/) ou [assistir](https://github.com/) nossas instruções.
 
 # **Qual a compatibilidade?**
-A extensão WekaPAR funciona a partir da versão 3.7.8 da ferramenta WEKA. Entretanto, [aconselhamos](https://github.com/) que os usuários estejam com a ferramenta WEKA em sua versão 3.8.0 ou superior.
+A extensão WekaPAR funciona a partir da versão 3.7.8 da ferramenta WEKA. Entretanto, [recomendamos](https://github.com/) que os usuários estejam com a ferramenta WEKA em sua versão 3.8.0 ou superior.
 
 # **Estou com problemas. O que devo fazer?**
 Para problemas com o download da extensão WekaPAR, clique [aqui](https://github.com/).
@@ -26,8 +26,8 @@ Para problemas com a instalação da extensão WekaPAR, clique [aqui](https://gi
 Para problemas com o valores divergentes, clique [aqui](https://github.com/).
 
 # **Como contribuir com a WekaPAR?**
-Para contribuir com a extensão WekaPAR, leia:
-* [Primeiro](https://github.com/)
-* [Segundo](https://github.com/)
-* [Terceiro](https://github.com/)
+Você pode contribuir com a extensão WekaPAR das seguintes formas:
+* Através de [pull request](https://github.com/). Para mais informações sobre o processo de pull request, clique [aqui](https://github.com/). 
+* Reportando um [problema ou bug](https://github.com/) na extensão WekaPAR.
+> * Nota: Recomendamos a consulta ao [manual](https://sourceforge.net/projects/weka/files/documentation/3.8.x/WekaManual-3-8-0.pdf/download?use_mirror=ufpr&download=) e ao [Wiki](http://weka.wikispaces.com/) da ferramenta WEKA para informações sobre o desenvolvimento de extensões.
 
