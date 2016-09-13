@@ -20,7 +20,7 @@ A extensão WekaPAR funciona a partir da versão 3.7.8 da ferramenta WEKA. Entre
 
 # **Como contribuir com a WekaPAR?**
 Você pode contribuir com a extensão WekaPAR das seguintes formas:
-* Através de [pull request](https://github.com/). Para mais informações sobre o processo de pull request, clique [aqui](https://github.com/). 
+* Através de pull request. Para mais informações sobre o processo de pull request, clique [aqui](https://github.com/). 
 * Reportando um [problema ou bug](https://github.com/) na extensão WekaPAR.
 
 > **Nota:** Recomendamos a consulta ao [manual](https://sourceforge.net/projects/weka/files/documentation/3.8.x/WekaManual-3-8-0.pdf/download?use_mirror=ufpr&download=) e ao [Wiki](http://weka.wikispaces.com/) da ferramenta WEKA para informações sobre o desenvolvimento de extensões.
@@ -34,5 +34,5 @@ Você pode contribuir com a extensão WekaPAR das seguintes formas:
 
 * Para problemas ou dúvidas que não possuam relação direta com a extensão WekaPAR, recomendamos a [lista de usuários](https://list.waikato.ac.nz/mailman/listinfo/wekalist) da ferramenta WEKA.
 
-* Para problemas ou dúvidas que possuam relação direta com a extensão WekaPAR, você pode entrar em contato conosco através do e-mail: **danielnsilva@gmail.com**.
+* Para dúvidas e sugestões que possuam relação direta com a extensão WekaPAR, você pode entrar em contato conosco através do e-mail: **danielnsilva@gmail.com**.
 
