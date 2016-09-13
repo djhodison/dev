@@ -25,7 +25,7 @@ Você pode contribuir com a extensão WekaPAR das seguintes formas:
 
 > **Nota:** Recomendamos a consulta ao [manual](https://sourceforge.net/projects/weka/files/documentation/3.8.x/WekaManual-3-8-0.pdf/download?use_mirror=ufpr&download=) e ao [Wiki](http://weka.wikispaces.com/) da ferramenta WEKA para informações sobre o desenvolvimento de extensões.
 
-# **Estou com problemas ou dúvidas. O que devo fazer?**
+# **Estou com problemas/dúvidas. O que devo fazer?**
 * Para problemas com o download da extensão WekaPAR, clique [aqui](https://github.com/).
 
 * Para problemas com a instalação da extensão WekaPAR, clique [aqui](https://github.com/).
