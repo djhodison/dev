@@ -32,7 +32,7 @@ Você pode contribuir com a extensão WekaPAR das seguintes formas:
 
 * Para problemas com o valores divergentes, clique [aqui](https://github.com/).
 
-* Para problemas ou dúvidas sem relação direta com a extensão WekaPAR, recomendamos a [lista de usuários](https://list.waikato.ac.nz/mailman/listinfo/wekalist) da ferramenta WEKA.
+* Para problemas/dúvidas sem relação direta com a extensão WekaPAR, recomendamos a [lista de usuários](https://list.waikato.ac.nz/mailman/listinfo/wekalist) da ferramenta WEKA.
 
 * Para problemas ou dúvidas que possuam relação direta com a extensão WekaPAR, você pode entrar em contato conosco através do e-mail: **danielnsilva@gmail.com**.
 
