@@ -25,14 +25,14 @@ Você pode contribuir com a extensão WekaPAR das seguintes formas:
 
 > **Nota:** Recomendamos a consulta ao [manual](https://sourceforge.net/projects/weka/files/documentation/3.8.x/WekaManual-3-8-0.pdf/download?use_mirror=ufpr&download=) e ao [Wiki](http://weka.wikispaces.com/) da ferramenta WEKA para informações sobre o desenvolvimento de extensões.
 
-# **Estou com problemas/dúvidas. O que devo fazer?**
+# **Estou com problemas ou dúvidas. O que devo fazer?**
 * Para problemas com o download da extensão WekaPAR, clique [aqui](https://github.com/).
 
 * Para problemas com a instalação da extensão WekaPAR, clique [aqui](https://github.com/).
 
 * Para problemas com o valores divergentes, clique [aqui](https://github.com/).
 
-* Para problemas/dúvidas que não possuam relação direta com a extensão WekaPAR, recomendamos a [lista de usuários](https://list.waikato.ac.nz/mailman/listinfo/wekalist) da ferramenta WEKA.
+* Para problemas ou dúvidas que não possuam relação direta com a extensão WekaPAR, recomendamos a [lista de usuários](https://list.waikato.ac.nz/mailman/listinfo/wekalist) da ferramenta WEKA.
 
 * Para problemas ou dúvidas que possuam relação direta com a extensão WekaPAR, você pode entrar em contato conosco através do e-mail: **danielnsilva@gmail.com**.
 
