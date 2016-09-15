@@ -6,8 +6,7 @@ Para obter mais informações sobre a extensão WekaPAR, leia [isto](https://git
 # **Como obter?**
 Para obter a extensão WekaPAR, clique [aqui](https://github.com/).
 
-Nota: Para utilizar a extensão WekaPAR, é necessário ter instalada a ferramenta WEKA.
-Caso ainda não possua a ferramenta WEKA, clique [aqui](http://www.cs.waikato.ac.nz/ml/weka/downloading.html) para realizar o download.
+> **Nota:** Não é necessário descompactar a extensão WekaPAR para efetuar o procedimento de instalação.
 
 # **Como instalar?**
 Para instalar a extensão WekaPAR na ferramenta WEKA, você pode [ler](https://github.com/) ou [assistir](https://github.com/) nossas instruções.
