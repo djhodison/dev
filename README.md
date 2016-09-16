@@ -1,5 +1,5 @@
 # **O que é WekaPAR?**
-A WekaPAR é uma extensão que acrescenta recursos de visualização, filtragem e análise de Regras de Associação geradas a partir da ferramenta de mineração de dados [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)[newtab].
+A WekaPAR é uma extensão que acrescenta recursos de visualização, filtragem e análise de Regras de Associação geradas a partir da ferramenta de mineração de dados [WEKA](http://www.cs.waikato.ac.nz/ml/weka/).
 
 Para obter mais informações sobre a extensão WekaPAR, leia [isto](https://github.com/djhodison/dev/blob/master/README.md#o-que-é-wekapar).
 
@@ -9,10 +9,10 @@ Para obter a extensão WekaPAR, clique [aqui](https://github.com/).
 > **Nota:** Não é necessário descompactar a extensão WekaPAR para efetuar o procedimento de instalação.
 
 # **Como instalar?**
-Para instalar a extensão WekaPAR na ferramenta WEKA, você pode [ler](https://github.com/) ou [assistir](https://github.com/) nossas instruções.
+Para instalar a extensão WekaPAR na ferramenta WEKA, você pode [ler](https://github.com/) ou [assistir](https://www.youtube.com/watch?v=j2DjdK7gJJ8) nossas instruções.
 
 # **Como utilizar?**
-Para utilizar a extensão WekaPAR, você pode [ler](https://github.com/) ou [assistir](https://github.com/) nossas instruções.
+Para utilizar a extensão WekaPAR, você pode [ler](https://github.com/) ou [assistir](https://www.youtube.com/watch?v=c-fJzvWmQ7A) nossas instruções.
 
 # **Qual a compatibilidade?**
 A extensão WekaPAR funciona a partir da versão 3.7.8 da ferramenta WEKA. Entretanto, [recomendamos](https://github.com/) que os usuários estejam com a ferramenta WEKA em sua versão 3.8.0 ou superior.
