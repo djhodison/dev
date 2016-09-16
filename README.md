@@ -1,5 +1,5 @@
 # **O que é WekaPAR?**
-A WekaPAR é uma extensão que acrescenta recursos de visualização, filtragem e análise de Regras de Associação geradas a partir da ferramenta de mineração de dados  <a href="http://www.google.com" target="_blank">Test</a>.
+A WekaPAR é uma extensão que acrescenta recursos de visualização, filtragem e análise de Regras de Associação geradas a partir da ferramenta de mineração de dados [WEKA](http://www.cs.waikato.ac.nz/ml/weka/).
 
 Para obter mais informações sobre a extensão WekaPAR, leia [isto](https://github.com/djhodison/dev/blob/master/README.md#o-que-é-wekapar).
 
