@@ -22,7 +22,7 @@ You can contribute to the WekaPAR extension in the following ways:
 * Through **pull request**. For more information about the pull request process, click [here](https://github.com/). 
 * Reporting a **problem or bug** in the WekaPAR extension.
 
-> **Note:** We recommend consulting the [manual](https://sourceforge.net/projects/weka/files/documentation/3.8.x/WekaManual-3-8-0.pdf/download?use_mirror=ufpr&download=) and the [Wiki](http://weka.wikispaces.com/) of WEKA tool for information on developing extensions.
+> **Note:** We recommend consulting the [manual](https://sourceforge.net/projects/weka/files/documentation/3.8.x/WekaManual-3-8-0.pdf/download?use_mirror=ufpr&download=) and the [Wiki](http://weka.wikispaces.com/) of WEKA tool for information about developing extensions.
 
 # **I have problems or questions. What should I do?**
 
