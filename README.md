@@ -1,34 +1,34 @@
-# **O que é WekaPAR?**
-A WekaPAR é uma extensão que acrescenta recursos de visualização, filtragem e análise de Regras de Associação geradas a partir da ferramenta de mineração de dados [WEKA](http://www.cs.waikato.ac.nz/ml/weka/).
+# **What is WekaPAR?**
+The WekaPAR is an extension that adds features for viewing, filtering, and [Association Rules](http://www.saedsayad.com/association_rules.htm) analysis generated from the [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) data mining tool.
 
-Para obter mais informações sobre a extensão WekaPAR, leia [isto](https://github.com/djhodison/dev/blob/master/README.md#o-que-é-wekapar).
+For more information about the WekaPAR extension, read [this](https://github.com/djhodison/dev/blob/master/README.md#o-que-é-wekapar).
 
-# **Como obter?**
-Para obter a extensão WekaPAR, clique [aqui](https://github.com/).
+# **How to get?**
+To download the WekaPAR extension, click [here](https://github.com/).
 
-> **Nota:** Não é necessário descompactar a extensão WekaPAR para efetuar o procedimento de instalação.
+> **Note:** It's not necessary to unpack the extension WekaPAR to perform the installation procedure.
 
-# **Como instalar?**
-Para instalar a extensão WekaPAR na ferramenta WEKA, você pode [ler](https://github.com/) ou [assistir](https://www.youtube.com/watch?v=j2DjdK7gJJ8) nossas instruções.
+# **How to install?**
+To install the WekaPAR extension in the WEKA tool, you can [read](https://github.com/) or [watch](https://www.youtube.com/watch?v=j2DjdK7gJJ8) our instructions.
 
-# **Como utilizar?**
-Para utilizar a extensão WekaPAR, você pode [ler](https://github.com/) ou [assistir](https://www.youtube.com/watch?v=c-fJzvWmQ7A) nossas instruções.
+# **How to use?**
+To use the extension WekaPAR, you can [read](https://github.com/) or [watch](https://www.youtube.com/watch?v=c-fJzvWmQ7A) our instructions.
 
-# **Qual a compatibilidade?**
-A extensão WekaPAR funciona a partir da versão 3.7.8 da ferramenta WEKA. Entretanto, [recomendamos](https://github.com/) que os usuários estejam com a ferramenta WEKA em sua versão 3.8.0 ou superior.
+# **What is compatibility?**
+The WekaPAR extension works from version 3.7.8 WEKA tool. However, we [recommend](https://github.com/) that users are with the WEKA tool in your version 3.8.0 or higher.
 
-# **Como contribuir com a WekaPAR?**
-Você pode contribuir com a extensão WekaPAR das seguintes formas:
-* Através de pull request. Para mais informações sobre o processo de pull request, clique [aqui](https://github.com/). 
-* Reportando um problema ou bug na extensão WekaPAR.
+# **How to contribute with the WekaPAR?**
+You can contribute to the WekaPAR extension in the following ways:
+* Through **pull request**. For more information about the pull request process, click [here](https://github.com/). 
+* Reporting a problem or bug in the WekaPAR extension.
 
-> **Nota:** Recomendamos a consulta ao [manual](https://sourceforge.net/projects/weka/files/documentation/3.8.x/WekaManual-3-8-0.pdf/download?use_mirror=ufpr&download=) e ao [Wiki](http://weka.wikispaces.com/) da ferramenta WEKA para informações sobre o desenvolvimento de extensões.
+> **Note:** We recommend consulting the [manual](https://sourceforge.net/projects/weka/files/documentation/3.8.x/WekaManual-3-8-0.pdf/download?use_mirror=ufpr&download=) and the [Wiki](http://weka.wikispaces.com/) of WEKA tool for information on developing extensions.
 
-# **Estou com problemas ou dúvidas. O que devo fazer?**
+# **I have problems or questions. What should I do?**
 
-* Para problemas com o valores divergentes, clique [aqui](https://github.com/).
+* For problems with the diverging values, click [here](https://github.com/).
 
-* Para problemas ou dúvidas **que não possuam** relação direta com a extensão WekaPAR, recomendamos a [lista de usuários](https://list.waikato.ac.nz/mailman/listinfo/wekalist) da ferramenta WEKA.
+* For problems or questions which **do not have** a direct relation with the WekaPAR extension, we recommend the [list of users](https://list.waikato.ac.nz/mailman/listinfo/wekalist) of the WEKA tool.
 
-* Para dúvidas e sugestões **que possuam** relação direta com a extensão WekaPAR, você pode entrar em contato conosco através do e-mail: **danielnsilva@gmail.com**.
+* For questions and suggestions **that have** direct relation with the extension WekaPAR, you may contact us by e-mail: danielnsilva@gmail.com.
 
