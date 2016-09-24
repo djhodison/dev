@@ -14,7 +14,7 @@ To install the WekaPAR extension in the WEKA tool, you can [read](https://github
 # **How to use?**
 To use the extension WekaPAR, you can [read](https://github.com/) or [watch](https://www.youtube.com/watch?v=c-fJzvWmQ7A) our instructions.
 
-# **What's the compatibility?**
+# **Wich's the compatibility?**
 The WekaPAR extension works from version 3.7.8 WEKA tool. However, we [recommend](https://github.com/) that users are with the WEKA tool in your version 3.8.0 or higher.
 
 # **How to contribute with the WekaPAR?**
@@ -28,7 +28,7 @@ You can contribute to the WekaPAR extension in the following ways:
 
 * For problems with the diverging values, click [here](https://github.com/).
 
-* For problems or questions which **do not have** a direct relation with the WekaPAR extension, we recommend the [list of users](https://list.waikato.ac.nz/mailman/listinfo/wekalist) of the WEKA tool.
+* For problems or questions which **doesn't have** a direct relation with the WekaPAR extension, we recommend the [list of users](https://list.waikato.ac.nz/mailman/listinfo/wekalist) of the WEKA tool.
 
 * For questions and suggestions **that have** direct relation with the extension WekaPAR, you may contact us by e-mail: **danielnsilva@gmail.com**.
 
