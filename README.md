@@ -1,6 +1,8 @@
 # **What is WekaPAR?**
 The WekaPAR is an extension that adds features for viewing, filtering, and [Association Rules](http://www.saedsayad.com/association_rules.htm) analysis generated from the [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) data mining tool.
 
+This is [a link](http://example.com){:target="_blank"}
+
 For more information about the WekaPAR extension, read [this](https://github.com/).
 
 # **How to get?**
