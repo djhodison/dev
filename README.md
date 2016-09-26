@@ -30,5 +30,5 @@ You can contribute to the WekaPAR extension in the following ways:
 
 * For issues or questions **unrelated** to the WekaPAR extension, we recommend the [list of users](https://list.waikato.ac.nz/mailman/listinfo/wekalist) of the WEKA tool.
 
-* For questions and suggestions **that have** direct relation with the extension WekaPAR, you may contact us by e-mail: **danielnsilva@gmail.com**.
+* For questions and suggestions **that have** direct relation with the WekaPAR extension, you may contact us by e-mail: **danielnsilva@gmail.com**.
 
