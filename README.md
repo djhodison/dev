@@ -26,7 +26,7 @@ You can contribute to the WekaPAR extension in the following ways:
 
 # **I have issues or questions. What should I do?**
 
-* For issues with the diverging values, click [here](https://github.com/).
+* For issues with diverging values, click [here](https://github.com/).
 
 * For issues or questions **unrelated** to the WekaPAR extension, we recommend the [list of users](https://list.waikato.ac.nz/mailman/listinfo/wekalist) of the WEKA tool.
 
