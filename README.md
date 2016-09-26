@@ -6,7 +6,7 @@ For more information about the WekaPAR extension, read [this](https://github.com
 # **How to get?**
 To download the WekaPAR extension, click [here](https://github.com/).
 
-> **Note:** It's not necessary to unpack the extension WekaPAR to perform the installation procedure.
+> **Note:** It's not necessary to unpack the WekaPAR extension to perform the installation procedure.
 
 # **How to install?**
 To install the WekaPAR extension in the WEKA tool, you can [read](https://github.com/) or [watch](https://www.youtube.com/watch?v=j2DjdK7gJJ8) our instructions.
