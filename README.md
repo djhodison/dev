@@ -28,7 +28,7 @@ You can contribute to the WekaPAR extension in the following ways:
 
 * For issues with the diverging values, click [here](https://github.com/).
 
-* For issues or questions unrelated to the WekaPAR extension, we recommend the [list of users](https://list.waikato.ac.nz/mailman/listinfo/wekalist) of the WEKA tool.
+* For issues or questions **unrelated** to the WekaPAR extension, we recommend the [list of users](https://list.waikato.ac.nz/mailman/listinfo/wekalist) of the WEKA tool.
 
 * For questions and suggestions **that have** direct relation with the extension WekaPAR, you may contact us by e-mail: **danielnsilva@gmail.com**.
 
