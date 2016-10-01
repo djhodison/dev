@@ -4,7 +4,7 @@ WekaPAR is an extension that adds features for viewing, filtering, and [Associat
 For more information about the WekaPAR extension, read [this](https://github.com/).
 
 # **How to get?**
-To download the WekaPAR extension, click [here](https://doc-0s-3s-docs.googleusercontent.com/docs/securesc/l9jn9j15c3c3rrlbkog2d7mirak3b440/9d5f9s5ott6r223a0a2rmofcg4f6fd17/1475272800000/14228936734265877955/12798155871384258977/0B72AMyfkuQEYdXZKQ1JJSk5lNXM?e=download&nonce=912gn4oi0o50k&user=12798155871384258977&hash=p4f4nsgb04fqg4vhooa27onn2c5upghi).
+To download the WekaPAR extension, click [here](https://github.com/djhodison/dev/releases/download/v0.6.3/WekaPAR-0.6.3.zip).
 
 > **Note:** It's not necessary to unpack the WekaPAR extension to perform the installation procedure.
 
